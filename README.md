@@ -10,8 +10,11 @@ Then you need to clone this git repository locally and install the dependencies:
 
 ```bash
 
-# cloning the repository
+# clone the repository
 git clone git@github.com:Geektrovert/ToDo-CLI.git
+
+# open to the folder
+cd ToDo-CLI
 
 # installing dependencies
 bun install
